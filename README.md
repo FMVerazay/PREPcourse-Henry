@@ -1,2 +1,1 @@
-# PREPcourse-Henry
- 2 creando repositorios con github
+es una preuba de clonar repositorios
